@@ -45,7 +45,7 @@ int main(int argc, char **argv) {
 		count++;
 	}
 	
-	for(i=0; i<win_lines-3; i++){
+	for(i=0; i<win_lines-2; i++){
 		wprintw(win,"\t%s", lines[i]);
 	}
 	
@@ -54,7 +54,7 @@ int main(int argc, char **argv) {
 		if (c == ' ') {
 			werase(win);
 			wprintw(win, "\t\n");
-			while(i<(s_cnt*(win_lines-3)) && i<count){
+			while(i<(s_cnt*(win_lines-2)) && i<count){
 				wprintw(win, "\t%s", lines[i]);
 				i++;
 			}
