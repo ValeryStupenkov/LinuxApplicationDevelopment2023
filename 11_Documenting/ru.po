@@ -1,0 +1,105 @@
+# Russian translations for LinuxApplicationDevelopment package
+# Английские переводы для пакета LinuxApplicationDevelopment.
+# Copyright (C) 2023 THE LinuxApplicationDevelopment'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the LinuxApplicationDevelopment package.
+# Valery <stupenkov.val@yandex.ru>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: LinuxApplicationDevelopment 2023\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-25 10:00+0300\n"
+"PO-Revision-Date: 2023-12-21 16:01+0300\n"
+"Last-Translator: Valery <stupenkov.val@yandex.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:33
+#, c-format
+msgid "Number game\n"
+msgstr ""
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:34
+#, c-format
+msgid "Usage: ./I18n [OPTIONS]\n"
+msgstr "Запуск: ./I18n [OPTIONS]\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:35
+#, c-format
+msgid ""
+"Guesses a number between 1 and 100\n"
+"\n"
+msgstr ""
+"Угадывает число от 1 до 100\n"
+"\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:36
+#, c-format
+msgid "Options:\n"
+msgstr "Опции:\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:37
+#, c-format
+msgid "  -r        Use roman number system\n"
+msgstr "  -r        Использовать римскую систему счисления\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:38
+#, c-format
+msgid ""
+"  --help    Show help message\n"
+"\n"
+msgstr ""
+"  --help    Показать сообщение с помощью\n"
+"\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:49
+#, c-format
+msgid "Error! String expected\n"
+msgstr "Ошибка! Ожидалась строка\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:56
+msgid "Yes"
+msgstr "Да"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:93
+#, c-format
+msgid "Think of a number between %s and %s\n"
+msgstr "Загадайте число от %s до %s\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:96
+#, c-format
+msgid "Think of a number between 1 and 100\n"
+msgstr "Загадайте число от 1 до 100\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:101
+#, c-format
+msgid ""
+"Is your number greater than %s?\n"
+"Print Yes or No\n"
+msgstr ""
+"Ваше число больше чем %s?\n"
+"Введите Да или Нет\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:103
+#, c-format
+msgid ""
+"Is your number greater than %d?\n"
+"Print Yes or No\n"
+msgstr ""
+"Ваше число больше чем %d?\n"
+"Введите Да или Нет\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:115
+#, c-format
+msgid "Your number is %s!\n"
+msgstr "Вы загадали %s!\n"
+
+#: /home/valery/Linux_HomeWork/LinuxApplicationDevelopment2023/11_Documenting/I18n.c:117
+#, c-format
+msgid "Your number is %d!\n"
+msgstr "Вы загадали %d!\n"
